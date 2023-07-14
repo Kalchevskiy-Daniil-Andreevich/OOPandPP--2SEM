@@ -1,0 +1,54 @@
+D:\PP_4sem\lab6\lab6\bin\Debug\net6.0\lab6.exe
+D:\PP_4sem\lab6\lab6\bin\Debug\net6.0\lab6.deps.json
+D:\PP_4sem\lab6\lab6\bin\Debug\net6.0\lab6.runtimeconfig.json
+D:\PP_4sem\lab6\lab6\bin\Debug\net6.0\lab6.dll
+D:\PP_4sem\lab6\lab6\bin\Debug\net6.0\lab6.pdb
+D:\PP_4sem\lab6\lab6\bin\Debug\net6.0\Lab6Lib.dll
+D:\PP_4sem\lab6\lab6\bin\Debug\net6.0\Lab6Lib.pdb
+D:\PP_4sem\lab6\lab6\obj\Debug\net6.0\lab6.csproj.AssemblyReference.cache
+D:\PP_4sem\lab6\lab6\obj\Debug\net6.0\lab6.GeneratedMSBuildEditorConfig.editorconfig
+D:\PP_4sem\lab6\lab6\obj\Debug\net6.0\lab6.AssemblyInfoInputs.cache
+D:\PP_4sem\lab6\lab6\obj\Debug\net6.0\lab6.AssemblyInfo.cs
+D:\PP_4sem\lab6\lab6\obj\Debug\net6.0\lab6.csproj.CoreCompileInputs.cache
+D:\PP_4sem\lab6\lab6\obj\Debug\net6.0\lab6.csproj.CopyComplete
+D:\PP_4sem\lab6\lab6\obj\Debug\net6.0\lab6.dll
+D:\PP_4sem\lab6\lab6\obj\Debug\net6.0\refint\lab6.dll
+D:\PP_4sem\lab6\lab6\obj\Debug\net6.0\lab6.pdb
+D:\PP_4sem\lab6\lab6\obj\Debug\net6.0\lab6.genruntimeconfig.cache
+D:\PP_4sem\lab6\lab6\obj\Debug\net6.0\ref\lab6.dll
+D:\ПП\lab6\lab6\bin\Debug\net6.0\lab6.exe
+D:\ПП\lab6\lab6\bin\Debug\net6.0\lab6.deps.json
+D:\ПП\lab6\lab6\bin\Debug\net6.0\lab6.runtimeconfig.json
+D:\ПП\lab6\lab6\bin\Debug\net6.0\lab6.dll
+D:\ПП\lab6\lab6\bin\Debug\net6.0\lab6.pdb
+D:\ПП\lab6\lab6\bin\Debug\net6.0\Lab6Lib.dll
+D:\ПП\lab6\lab6\bin\Debug\net6.0\Lab6Lib.pdb
+D:\ПП\lab6\lab6\obj\Debug\net6.0\lab6.csproj.AssemblyReference.cache
+D:\ПП\lab6\lab6\obj\Debug\net6.0\lab6.GeneratedMSBuildEditorConfig.editorconfig
+D:\ПП\lab6\lab6\obj\Debug\net6.0\lab6.AssemblyInfoInputs.cache
+D:\ПП\lab6\lab6\obj\Debug\net6.0\lab6.AssemblyInfo.cs
+D:\ПП\lab6\lab6\obj\Debug\net6.0\lab6.csproj.CoreCompileInputs.cache
+D:\ПП\lab6\lab6\obj\Debug\net6.0\lab6.csproj.CopyComplete
+D:\ПП\lab6\lab6\obj\Debug\net6.0\lab6.dll
+D:\ПП\lab6\lab6\obj\Debug\net6.0\refint\lab6.dll
+D:\ПП\lab6\lab6\obj\Debug\net6.0\lab6.pdb
+D:\ПП\lab6\lab6\obj\Debug\net6.0\lab6.genruntimeconfig.cache
+D:\ПП\lab6\lab6\obj\Debug\net6.0\ref\lab6.dll
+D:\ООП и Паттерн программирование 2 СЕМ\Паттерны\Лабораторная работа №6\lab6\lab6\bin\Debug\net6.0\lab6.exe
+D:\ООП и Паттерн программирование 2 СЕМ\Паттерны\Лабораторная работа №6\lab6\lab6\bin\Debug\net6.0\lab6.deps.json
+D:\ООП и Паттерн программирование 2 СЕМ\Паттерны\Лабораторная работа №6\lab6\lab6\bin\Debug\net6.0\lab6.runtimeconfig.json
+D:\ООП и Паттерн программирование 2 СЕМ\Паттерны\Лабораторная работа №6\lab6\lab6\bin\Debug\net6.0\lab6.dll
+D:\ООП и Паттерн программирование 2 СЕМ\Паттерны\Лабораторная работа №6\lab6\lab6\bin\Debug\net6.0\lab6.pdb
+D:\ООП и Паттерн программирование 2 СЕМ\Паттерны\Лабораторная работа №6\lab6\lab6\bin\Debug\net6.0\Lab6Lib.dll
+D:\ООП и Паттерн программирование 2 СЕМ\Паттерны\Лабораторная работа №6\lab6\lab6\bin\Debug\net6.0\Lab6Lib.pdb
+D:\ООП и Паттерн программирование 2 СЕМ\Паттерны\Лабораторная работа №6\lab6\lab6\obj\Debug\net6.0\lab6.csproj.AssemblyReference.cache
+D:\ООП и Паттерн программирование 2 СЕМ\Паттерны\Лабораторная работа №6\lab6\lab6\obj\Debug\net6.0\lab6.GeneratedMSBuildEditorConfig.editorconfig
+D:\ООП и Паттерн программирование 2 СЕМ\Паттерны\Лабораторная работа №6\lab6\lab6\obj\Debug\net6.0\lab6.AssemblyInfoInputs.cache
+D:\ООП и Паттерн программирование 2 СЕМ\Паттерны\Лабораторная работа №6\lab6\lab6\obj\Debug\net6.0\lab6.AssemblyInfo.cs
+D:\ООП и Паттерн программирование 2 СЕМ\Паттерны\Лабораторная работа №6\lab6\lab6\obj\Debug\net6.0\lab6.csproj.CoreCompileInputs.cache
+D:\ООП и Паттерн программирование 2 СЕМ\Паттерны\Лабораторная работа №6\lab6\lab6\obj\Debug\net6.0\lab6.csproj.CopyComplete
+D:\ООП и Паттерн программирование 2 СЕМ\Паттерны\Лабораторная работа №6\lab6\lab6\obj\Debug\net6.0\lab6.dll
+D:\ООП и Паттерн программирование 2 СЕМ\Паттерны\Лабораторная работа №6\lab6\lab6\obj\Debug\net6.0\refint\lab6.dll
+D:\ООП и Паттерн программирование 2 СЕМ\Паттерны\Лабораторная работа №6\lab6\lab6\obj\Debug\net6.0\lab6.pdb
+D:\ООП и Паттерн программирование 2 СЕМ\Паттерны\Лабораторная работа №6\lab6\lab6\obj\Debug\net6.0\lab6.genruntimeconfig.cache
+D:\ООП и Паттерн программирование 2 СЕМ\Паттерны\Лабораторная работа №6\lab6\lab6\obj\Debug\net6.0\ref\lab6.dll

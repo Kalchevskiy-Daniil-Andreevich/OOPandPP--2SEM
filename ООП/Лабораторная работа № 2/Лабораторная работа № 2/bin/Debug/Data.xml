@@ -1,0 +1,48 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Book>
+    <FormatBook>EPUB</FormatBook>
+    <SizeFileBook>Большой - 60×84/8</SizeFileBook>
+    <NameBook>Николка</NameBook>
+    <Code>01234</Code>
+    <CountOfPages>1-300 страниц</CountOfPages>
+    <Publishing>«Добрая книга»</Publishing>
+    <Years>2012-2018 годов</Years>
+    <ListOfAuthor>Джозеф Хеллер</ListOfAuthor>
+    <NubmerPassport>06.03.2023 16:39:09</NubmerPassport>
+  </Book>
+  <Book>
+    <FormatBook>MOBI</FormatBook>
+    <SizeFileBook>Очень большой -70×100/8</SizeFileBook>
+    <NameBook>Яблык</NameBook>
+    <Code>01243</Code>
+    <CountOfPages>1-325 страниц</CountOfPages>
+    <Publishing>«Астрель-СПб»</Publishing>
+    <Years>1990-2000 годов</Years>
+    <ListOfAuthor>Уильям Фолкнер</ListOfAuthor>
+    <NubmerPassport>22.02.2023 16:39:09</NubmerPassport>
+  </Book>
+  <Book>
+    <FormatBook>EXT</FormatBook>
+    <SizeFileBook>Станлартный - 60×90/16</SizeFileBook>
+    <NameBook>Яблык</NameBook>
+    <Code>01249</Code>
+    <CountOfPages>1-300 страниц</CountOfPages>
+    <Publishing> «Манн, Иванов и Фербер»</Publishing>
+    <Years>2012-2018 годов</Years>
+    <ListOfAuthor>Гюстав Флобер</ListOfAuthor>
+    <NubmerPassport>14.12.2022 16:39:09</NubmerPassport>
+  </Book>
+  <Book>
+    <FormatBook>EXT</FormatBook>
+    <SizeFileBook>Станлартный - 60×90/16</SizeFileBook>
+    <NameBook>Рыба</NameBook>
+    <Code>01249</Code>
+    <CountOfPages>1-300 страниц</CountOfPages>
+    <Publishing> «Манн, Иванов и Фербер»</Publishing>
+    <Years>2012-2018 годов</Years>
+    <ListOfAuthor>Гюстав Флобер</ListOfAuthor>
+    <NubmerPassport>14.12.2022 16:39:09</NubmerPassport>
+  </Book>
+  <Book />
+</NewDataSet>

@@ -1,0 +1,45 @@
+D:\ООП и Паттерн программирование 2 СЕМ\lab 1.1\lab 1.1\obj\Debug\net6.0\lab 1.1.csproj.AssemblyReference.cache
+D:\ООП и Паттерн программирование 2 СЕМ\lab 1.1\lab 1.1\obj\Debug\net6.0\lab 1.1.GeneratedMSBuildEditorConfig.editorconfig
+D:\ООП и Паттерн программирование 2 СЕМ\lab 1.1\lab 1.1\obj\Debug\net6.0\lab 1.1.AssemblyInfoInputs.cache
+D:\ООП и Паттерн программирование 2 СЕМ\lab 1.1\lab 1.1\obj\Debug\net6.0\lab 1.1.AssemblyInfo.cs
+D:\ООП и Паттерн программирование 2 СЕМ\lab 1.1\lab 1.1\obj\Debug\net6.0\lab 1.1.csproj.CoreCompileInputs.cache
+D:\ООП и Паттерн программирование 2 СЕМ\lab 1.1\lab 1.1\bin\Debug\net6.0\lab 1.1.exe
+D:\ООП и Паттерн программирование 2 СЕМ\lab 1.1\lab 1.1\bin\Debug\net6.0\lab 1.1.deps.json
+D:\ООП и Паттерн программирование 2 СЕМ\lab 1.1\lab 1.1\bin\Debug\net6.0\lab 1.1.runtimeconfig.json
+D:\ООП и Паттерн программирование 2 СЕМ\lab 1.1\lab 1.1\bin\Debug\net6.0\lab 1.1.dll
+D:\ООП и Паттерн программирование 2 СЕМ\lab 1.1\lab 1.1\bin\Debug\net6.0\lab 1.1.pdb
+D:\ООП и Паттерн программирование 2 СЕМ\lab 1.1\lab 1.1\obj\Debug\net6.0\lab 1.1.dll
+D:\ООП и Паттерн программирование 2 СЕМ\lab 1.1\lab 1.1\obj\Debug\net6.0\refint\lab 1.1.dll
+D:\ООП и Паттерн программирование 2 СЕМ\lab 1.1\lab 1.1\obj\Debug\net6.0\lab 1.1.pdb
+D:\ООП и Паттерн программирование 2 СЕМ\lab 1.1\lab 1.1\obj\Debug\net6.0\lab 1.1.genruntimeconfig.cache
+D:\ООП и Паттерн программирование 2 СЕМ\lab 1.1\lab 1.1\obj\Debug\net6.0\ref\lab 1.1.dll
+D:\ООП и Паттерн программирование 2 СЕМ\Паттерны\lab 1.1\lab 1.1\bin\Debug\net6.0\lab 1.1.exe
+D:\ООП и Паттерн программирование 2 СЕМ\Паттерны\lab 1.1\lab 1.1\bin\Debug\net6.0\lab 1.1.deps.json
+D:\ООП и Паттерн программирование 2 СЕМ\Паттерны\lab 1.1\lab 1.1\bin\Debug\net6.0\lab 1.1.runtimeconfig.json
+D:\ООП и Паттерн программирование 2 СЕМ\Паттерны\lab 1.1\lab 1.1\bin\Debug\net6.0\lab 1.1.dll
+D:\ООП и Паттерн программирование 2 СЕМ\Паттерны\lab 1.1\lab 1.1\bin\Debug\net6.0\lab 1.1.pdb
+D:\ООП и Паттерн программирование 2 СЕМ\Паттерны\lab 1.1\lab 1.1\obj\Debug\net6.0\lab 1.1.csproj.AssemblyReference.cache
+D:\ООП и Паттерн программирование 2 СЕМ\Паттерны\lab 1.1\lab 1.1\obj\Debug\net6.0\lab 1.1.GeneratedMSBuildEditorConfig.editorconfig
+D:\ООП и Паттерн программирование 2 СЕМ\Паттерны\lab 1.1\lab 1.1\obj\Debug\net6.0\lab 1.1.AssemblyInfoInputs.cache
+D:\ООП и Паттерн программирование 2 СЕМ\Паттерны\lab 1.1\lab 1.1\obj\Debug\net6.0\lab 1.1.AssemblyInfo.cs
+D:\ООП и Паттерн программирование 2 СЕМ\Паттерны\lab 1.1\lab 1.1\obj\Debug\net6.0\lab 1.1.csproj.CoreCompileInputs.cache
+D:\ООП и Паттерн программирование 2 СЕМ\Паттерны\lab 1.1\lab 1.1\obj\Debug\net6.0\lab 1.1.dll
+D:\ООП и Паттерн программирование 2 СЕМ\Паттерны\lab 1.1\lab 1.1\obj\Debug\net6.0\refint\lab 1.1.dll
+D:\ООП и Паттерн программирование 2 СЕМ\Паттерны\lab 1.1\lab 1.1\obj\Debug\net6.0\lab 1.1.pdb
+D:\ООП и Паттерн программирование 2 СЕМ\Паттерны\lab 1.1\lab 1.1\obj\Debug\net6.0\lab 1.1.genruntimeconfig.cache
+D:\ООП и Паттерн программирование 2 СЕМ\Паттерны\lab 1.1\lab 1.1\obj\Debug\net6.0\ref\lab 1.1.dll
+D:\ООП и Паттерн программирование 2 СЕМ\Паттерны\Лабораторная работа №1\lab 1.1\lab 1.1\bin\Debug\net6.0\lab 1.1.exe
+D:\ООП и Паттерн программирование 2 СЕМ\Паттерны\Лабораторная работа №1\lab 1.1\lab 1.1\bin\Debug\net6.0\lab 1.1.deps.json
+D:\ООП и Паттерн программирование 2 СЕМ\Паттерны\Лабораторная работа №1\lab 1.1\lab 1.1\bin\Debug\net6.0\lab 1.1.runtimeconfig.json
+D:\ООП и Паттерн программирование 2 СЕМ\Паттерны\Лабораторная работа №1\lab 1.1\lab 1.1\bin\Debug\net6.0\lab 1.1.dll
+D:\ООП и Паттерн программирование 2 СЕМ\Паттерны\Лабораторная работа №1\lab 1.1\lab 1.1\bin\Debug\net6.0\lab 1.1.pdb
+D:\ООП и Паттерн программирование 2 СЕМ\Паттерны\Лабораторная работа №1\lab 1.1\lab 1.1\obj\Debug\net6.0\lab 1.1.csproj.AssemblyReference.cache
+D:\ООП и Паттерн программирование 2 СЕМ\Паттерны\Лабораторная работа №1\lab 1.1\lab 1.1\obj\Debug\net6.0\lab 1.1.GeneratedMSBuildEditorConfig.editorconfig
+D:\ООП и Паттерн программирование 2 СЕМ\Паттерны\Лабораторная работа №1\lab 1.1\lab 1.1\obj\Debug\net6.0\lab 1.1.AssemblyInfoInputs.cache
+D:\ООП и Паттерн программирование 2 СЕМ\Паттерны\Лабораторная работа №1\lab 1.1\lab 1.1\obj\Debug\net6.0\lab 1.1.AssemblyInfo.cs
+D:\ООП и Паттерн программирование 2 СЕМ\Паттерны\Лабораторная работа №1\lab 1.1\lab 1.1\obj\Debug\net6.0\lab 1.1.csproj.CoreCompileInputs.cache
+D:\ООП и Паттерн программирование 2 СЕМ\Паттерны\Лабораторная работа №1\lab 1.1\lab 1.1\obj\Debug\net6.0\lab 1.1.dll
+D:\ООП и Паттерн программирование 2 СЕМ\Паттерны\Лабораторная работа №1\lab 1.1\lab 1.1\obj\Debug\net6.0\refint\lab 1.1.dll
+D:\ООП и Паттерн программирование 2 СЕМ\Паттерны\Лабораторная работа №1\lab 1.1\lab 1.1\obj\Debug\net6.0\lab 1.1.pdb
+D:\ООП и Паттерн программирование 2 СЕМ\Паттерны\Лабораторная работа №1\lab 1.1\lab 1.1\obj\Debug\net6.0\lab 1.1.genruntimeconfig.cache
+D:\ООП и Паттерн программирование 2 СЕМ\Паттерны\Лабораторная работа №1\lab 1.1\lab 1.1\obj\Debug\net6.0\ref\lab 1.1.dll

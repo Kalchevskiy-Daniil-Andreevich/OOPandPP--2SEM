@@ -1,0 +1,36 @@
+D:\PP_4sem\lab5\Lec5Lib\bin\Debug\net6.0\Lec5Lib.deps.json
+D:\PP_4sem\lab5\Lec5Lib\bin\Debug\net6.0\Lec5Lib.dll
+D:\PP_4sem\lab5\Lec5Lib\bin\Debug\net6.0\Lec5Lib.pdb
+D:\PP_4sem\lab5\Lec5Lib\obj\Debug\net6.0\Lec5Lib.csproj.AssemblyReference.cache
+D:\PP_4sem\lab5\Lec5Lib\obj\Debug\net6.0\Lec5Lib.GeneratedMSBuildEditorConfig.editorconfig
+D:\PP_4sem\lab5\Lec5Lib\obj\Debug\net6.0\Lec5Lib.AssemblyInfoInputs.cache
+D:\PP_4sem\lab5\Lec5Lib\obj\Debug\net6.0\Lec5Lib.AssemblyInfo.cs
+D:\PP_4sem\lab5\Lec5Lib\obj\Debug\net6.0\Lec5Lib.csproj.CoreCompileInputs.cache
+D:\PP_4sem\lab5\Lec5Lib\obj\Debug\net6.0\Lec5Lib.dll
+D:\PP_4sem\lab5\Lec5Lib\obj\Debug\net6.0\refint\Lec5Lib.dll
+D:\PP_4sem\lab5\Lec5Lib\obj\Debug\net6.0\Lec5Lib.pdb
+D:\PP_4sem\lab5\Lec5Lib\obj\Debug\net6.0\ref\Lec5Lib.dll
+D:\ПП\lab5\Lec5Lib\bin\Debug\net6.0\Lec5Lib.deps.json
+D:\ПП\lab5\Lec5Lib\bin\Debug\net6.0\Lec5Lib.dll
+D:\ПП\lab5\Lec5Lib\bin\Debug\net6.0\Lec5Lib.pdb
+D:\ПП\lab5\Lec5Lib\obj\Debug\net6.0\Lec5Lib.csproj.AssemblyReference.cache
+D:\ПП\lab5\Lec5Lib\obj\Debug\net6.0\Lec5Lib.GeneratedMSBuildEditorConfig.editorconfig
+D:\ПП\lab5\Lec5Lib\obj\Debug\net6.0\Lec5Lib.AssemblyInfoInputs.cache
+D:\ПП\lab5\Lec5Lib\obj\Debug\net6.0\Lec5Lib.AssemblyInfo.cs
+D:\ПП\lab5\Lec5Lib\obj\Debug\net6.0\Lec5Lib.csproj.CoreCompileInputs.cache
+D:\ПП\lab5\Lec5Lib\obj\Debug\net6.0\Lec5Lib.dll
+D:\ПП\lab5\Lec5Lib\obj\Debug\net6.0\refint\Lec5Lib.dll
+D:\ПП\lab5\Lec5Lib\obj\Debug\net6.0\Lec5Lib.pdb
+D:\ПП\lab5\Lec5Lib\obj\Debug\net6.0\ref\Lec5Lib.dll
+D:\ООП и Паттерн программирование 2 СЕМ\Паттерны\Лабораторная работа №5\lab5\Lec5Lib\bin\Debug\net6.0\Lec5Lib.deps.json
+D:\ООП и Паттерн программирование 2 СЕМ\Паттерны\Лабораторная работа №5\lab5\Lec5Lib\bin\Debug\net6.0\Lec5Lib.dll
+D:\ООП и Паттерн программирование 2 СЕМ\Паттерны\Лабораторная работа №5\lab5\Lec5Lib\bin\Debug\net6.0\Lec5Lib.pdb
+D:\ООП и Паттерн программирование 2 СЕМ\Паттерны\Лабораторная работа №5\lab5\Lec5Lib\obj\Debug\net6.0\Lec5Lib.csproj.AssemblyReference.cache
+D:\ООП и Паттерн программирование 2 СЕМ\Паттерны\Лабораторная работа №5\lab5\Lec5Lib\obj\Debug\net6.0\Lec5Lib.GeneratedMSBuildEditorConfig.editorconfig
+D:\ООП и Паттерн программирование 2 СЕМ\Паттерны\Лабораторная работа №5\lab5\Lec5Lib\obj\Debug\net6.0\Lec5Lib.AssemblyInfoInputs.cache
+D:\ООП и Паттерн программирование 2 СЕМ\Паттерны\Лабораторная работа №5\lab5\Lec5Lib\obj\Debug\net6.0\Lec5Lib.AssemblyInfo.cs
+D:\ООП и Паттерн программирование 2 СЕМ\Паттерны\Лабораторная работа №5\lab5\Lec5Lib\obj\Debug\net6.0\Lec5Lib.csproj.CoreCompileInputs.cache
+D:\ООП и Паттерн программирование 2 СЕМ\Паттерны\Лабораторная работа №5\lab5\Lec5Lib\obj\Debug\net6.0\Lec5Lib.dll
+D:\ООП и Паттерн программирование 2 СЕМ\Паттерны\Лабораторная работа №5\lab5\Lec5Lib\obj\Debug\net6.0\refint\Lec5Lib.dll
+D:\ООП и Паттерн программирование 2 СЕМ\Паттерны\Лабораторная работа №5\lab5\Lec5Lib\obj\Debug\net6.0\Lec5Lib.pdb
+D:\ООП и Паттерн программирование 2 СЕМ\Паттерны\Лабораторная работа №5\lab5\Lec5Lib\obj\Debug\net6.0\ref\Lec5Lib.dll
